@@ -1,3 +1,3 @@
 Archivos Añadidos
 Empezando el desarrollo
-Añadiendo la feature de algo??
+Añadida feature de algo
